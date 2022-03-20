@@ -3,9 +3,9 @@
 ## Software Developer
 
 ### Contact information:
-**Phone:** +358 401905669
-**E-mail:** polina.gritsenko@gmail.com
-**Telegram:** [@polina_gritcenko](https://t.me/polina_gritcenko)
+**Phone:** +358 401905669  
+**E-mail:** polina.gritsenko@gmail.com  
+**Telegram:** [@polina_gritcenko](https://t.me/polina_gritcenko)  
 **Discord:** 
 
 ![avatar](/assets/images/avatar.jpg)
@@ -33,31 +33,31 @@ function dataReverse(data) {
 ```
 
 ## Experience:
-_Software developer_
-Visma Finland 
-August 2018 - current / Finland, Helsinki
-Responsibilities:
+_Software developer_  
+Visma Finland  
+August 2018 - current / Finland, Helsinki  
+Responsibilities:  
 Maintain or assist in maintaining required infrastructure (IDE, source control, databases, demo/test-installations, Integration servers, etc).
 Active participation in product development, by staying up to date on developments/conventions in their field.
 As part of the Security Development life cycle process: Ensure that 3rd party code/libraries are frequently assessed for security vulnerabilities/problems and trigger/verify security updates.
 Contribute to guidelines/best practices on secure system engineering principles e.g. documentation on how to operate and configure a secure development environment.
 Ensure that the product/service is delivered in a secure manner to the client.
 
-_Middle software developer_
-Arcadia 
-September 2016 - August 2018 / Russia, Saint-Petersburg
-Responsibilities:
+_Middle software developer_  
+Arcadia  
+September 2016 - August 2018 / Russia, Saint-Petersburg  
+Responsibilities:  
 Development and deployment of Web Applications (docker, multiservices architecture, angular 2+, .net core);
 Short experience in development application for iOS (Swift).
 
-_Junior Software developer_
-Arcadia 
+_Junior Software developer_  
+Arcadia  
 January 2015 - September 2016 / Russia, Saint-Petersburg
 
 ## Education:
-ITMO University, Saint-Petersburg, Russia.
-2014-2016 Master of Mechatronics and Robotics
-2008-2014 Bachelor of Control System and Technologies
+ITMO University, Saint-Petersburg, Russia.  
+2014-2016 Master of Mechatronics and Robotics  
+2008-2014 Bachelor of Control System and Technologies  
 
 ## Languages:
 - Russian - Native
