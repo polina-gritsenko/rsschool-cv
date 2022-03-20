@@ -6,7 +6,6 @@
 **Phone:** +358 401905669  
 **E-mail:** polina.gritsenko@gmail.com  
 **Telegram:** [@polina_gritcenko](https://t.me/polina_gritcenko)  
-**Discord:** 
 
 <img src="/assets/images/avatar.jpg" alt="avatar" width="200"/>
 
