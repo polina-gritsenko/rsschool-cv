@@ -1,4 +1,4 @@
 # rsschool-cv
 RS School: CV task
 
-[https://polina-gritsenko.github.io/rsschool-cv/cv](https://polina-gritsenko.github.io/rsschool-cv/cv)
+<a href="https://polina-gritsenko.github.io/rsschool-cv/cv" target="_blank">https://polina-gritsenko.github.io/rsschool-cv/cv</a>
