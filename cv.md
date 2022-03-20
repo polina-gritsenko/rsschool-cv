@@ -8,7 +8,7 @@
 **Telegram:** [@polina_gritcenko](https://t.me/polina_gritcenko)  
 **Discord:** 
 
-![avatar](/assets/images/avatar.jpg)
+<img src="/assets/images/avatar.jpg" alt="avatar" width="200"/>
 
 ## Why I am here
 I have been working as a programmer for some time, but I would like to learn / repeat some basic things.
